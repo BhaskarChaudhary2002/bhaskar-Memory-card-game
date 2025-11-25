@@ -43,5 +43,4 @@ memory-card-game/
 ├── script.js
 └── README.md
 
-#screenshot
-<img src="Screenshot (112).png">
+
